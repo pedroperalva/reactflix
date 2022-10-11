@@ -1,0 +1,18 @@
+.searchMovie {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  button {
+    border-radius: 10px;
+    height: 40px;
+    width: 70px;
+    background-color: #61dafb;
+    color: #fff;
+  }
+  input {
+    border-radius: 10px;
+    height: 40px;
+    width: 180px;
+    padding-left: 10px;
+  }
+}
